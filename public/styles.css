@@ -1,0 +1,30 @@
+pre{
+    background-color: rgb(163, 163, 163);
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 5px 3px 3px rgb(102, 102, 102);
+}
+h1{
+    text-align: center;
+    color: rgb(49, 65, 207);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    text-align: center;
+    color: rgb(235, 62, 235);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+pre, code{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color:rgb(18, 61, 43)
+}
+h2 code{
+    font-size: 25px;
+}
+a{
+    color:rgb(9, 172, 31)
+}
+article:first-child p a{
+    color: rgb(255, 174, 23);
+}
